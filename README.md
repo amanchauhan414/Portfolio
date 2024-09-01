@@ -2,11 +2,11 @@
   <img src="./public/Logo.svg" height="68px" width="68px" alt="portfolio logo" align="center"/>
 </div>
 
-<h1 align="center">Rodrigo's Portfolio</h1>
+<h1 align="center">Aman's Portfolio</h1>
 
 ## 👋🏽 Introduction
 
-Welcome to my portfolio! I’m a full-stack software developer who uses programming to develop innovative solutions and attractive user interfaces. In this portfolio you’ll be able to see an overview of my work and some personal projects I’ve developed in order to improve my skills and expand my knowledges.
+Welcome to my portfolio! I’m a front end software developer who uses programming to develop innovative solutions and attractive user interfaces. In this portfolio you’ll be able to see an overview of my work and some personal projects I’ve developed in order to improve my skills and expand my knowledge.
 
 ## 📚 Table of contents
 
@@ -21,7 +21,7 @@ Welcome to my portfolio! I’m a full-stack software developer who uses programm
 
 ## 👨🏽‍💻 About me
 
-As mentioned earlier, I’m a full-stack software developer with a strong emphasis on front-end web development. Although my specialisation lies in creating engaging user interfaces, I am equally adept at back-end development and creating mobile applications. My passion for technology is marked by a sincere appreciation for the world of UI/UX design, where I do some work using Figma.
+As mentioned earlier, I’m a front end software developer with a strong emphasis on front-end web development.  Although My  specialisation lies in creating engaging user interfaces , but i am ready to learn any technology that is currently suitable according to industry needs and requirements. My passion for technology is marked by a sincere appreciation for the world of UI/UX design . 
 
 ## 🛠 Technologies
 
@@ -38,14 +38,14 @@ As mentioned earlier, I’m a full-stack software developer with a strong emphas
 
 ## 📺 How to view
 
-In case you want to take a look at the application, you can access the project at the official link just by [clicking here](https://rm-portfoliof.netlify.app/).
+In case you want to take a look at the application, you can access the project at the official link just by [clicking here]( https://portfolioaman-one.vercel.app/)
 
 ## 🚀 How to run
 
 To install the application, you first need to clone the project to your local device. To do this, simply run the following command in your terminal:
 
 ```
-git clone https://github.com/rodrigsmor/my-portfolio.git
+git clone https://github.com/amanchauhan414/Portfolio.git
 ```
 
 With the application cloned on your local device, go to the portfolio directory and with the package manager of your choice, run the command to install the project packages.
@@ -72,23 +72,17 @@ npm run dev
 
 ## 👨🏽‍🦱 Author
 
-<img height="100px" src="https://avatars.githubusercontent.com/u/78985382?v=4" alt="Rodrigo profile picture">
+
 <p>Developed with love by <b size="48px">Aman Chauhan</b> 
  💜🚀</p>
 
 ---
 
 <div>
-  <a href="mailto:rodrigsmor.pf@gmail.com">
+  <a href="amanchauhancl1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
-  <a href="https://www.linkedin.com/in/psrodrigomoreira/">
+  <a href="https://www.linkedin.com/in/amanchauhan4144/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.behance.net/rodrigsmor">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance">
-  </a>
-  <a href="https://dev.to/psrodrigs">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
   </a>
 </div>
