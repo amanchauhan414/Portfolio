@@ -28,7 +28,7 @@ export const AboutMeSectionContent = () => {
               </p>
             </div>
             <Button type="link" props={{
-              href: 'https://docs.google.com/document/d/1gHDYk6O-Y9DcGPp9p7E2ljeNSPgzabAt6TGvqRb0m8g/edit?usp=sharing'
+              href: 'https://drive.google.com/file/d/1YsKj3ZHt7XWJ7r3VPpY5R4ZYED5OgSUS/view?usp=sharing'
             }}>
               Download CV
             </Button>
