@@ -42,7 +42,6 @@ export const projects = [
   }, {
     title: 'Furrow ( A video Production Website )',
     description: 'A  video production website made using framer motion and React.',
-    web_link: 'https://peru-travell.netlify.app/',
     github_link: 'https://github.com/amanchauhan414/Furrow',
     figma_link: '',
     image: '/screenshot1.gif',
