@@ -68,7 +68,7 @@ npm run dev
 
 ## 🖼 Previews
 
-![A preview of the portfolio](./public/preview-1.gif)
+![A preview of the portfolio](./portfolioaman.png)
 
 ## 👨🏽‍🦱 Author
 
