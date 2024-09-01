@@ -16,19 +16,19 @@ export const Footer = () => {
   const social_medias = [
     {
       name: 'linkedin',
-      link: 'https://www.linkedin.com/in/psrodrigomoreira/',
+      link: 'https://www.linkedin.com/in/amanchauhan4144/',
       Icon: <ImLinkedin2 />
     }, {
       name: 'github',
-      link: 'https://github.com/rodrigsmor',
+      link: 'https://github.com/amanchauhan414',
       Icon: <AiOutlineGithub />
     }, {
       name: 'behance',
-      link: 'https://www.behance.net/rodrigsmor',
+      link: '',
       Icon: <SiBehance />
     }, {
       name: 'devto',
-      link: 'http://dev.to/psrodrigs',
+      link: '',
       Icon: <SiDevdotto />
     }, 
   ]
