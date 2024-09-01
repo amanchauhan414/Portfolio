@@ -59,7 +59,7 @@ export const projects = [
     description: ' Used Playwright and NodeJS for Extraction of Linkedin Data',
     github_link: 'https://github.com/amanchauhan414/LinkedInScraper',
     figma_link: '',
-    image: '/public/scraper.png',
+    image: '/scraper.png',
     alt_image: 'Previw of web scraper',
     technologies: [
       'HTML', 'CSS', 'Javascript'
